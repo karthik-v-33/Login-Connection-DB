@@ -26,7 +26,7 @@
 	<b><legend style="font-size:30px; text-align: center;  text-transform: uppercase;"> Create a new account </legend></b>
 	</div>
 	</fieldset>
-<form action="#" method="post" style="font-size:20px; text-align: center;">
+<form action="Login_Connector_sql" method="post" style="font-size:20px; text-align: center;">
 	Username:  <input type="text" placeholder="Enter your Name" name="n1"><br><br>
 	Email - ID:  <input type="email" placeholder="Enter your Email-ID" name="n2"><br><br>
 	Password:  <input type="password" placeholder="Enter your Password" name="n3">
@@ -48,7 +48,7 @@
 	<b><legend style="font-size:30px; text-align: center;  text-transform: uppercase;"> Welcome</legend></b>
 	</div>
 	</fieldset>
-	<form action="#" method="post" style="font-size:20px; text-align: center;">
+	<form action="Login_Connector_sql" method="post" style="font-size:20px; text-align: center;">
 	Email - ID:  <input type="email" placeholder="Enter your Email-ID" name="n5"><br><br>
 	Password:  <input type="password" placeholder="Enter your Password" name="n6"><br><br>
 	<input type="submit" value="Login" style="background-color:green; color:white;">
